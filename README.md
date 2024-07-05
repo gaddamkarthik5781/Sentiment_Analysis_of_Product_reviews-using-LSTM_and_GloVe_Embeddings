@@ -5,7 +5,8 @@
 
 -Dataset for these project, collected by Web-scraping the flipkart.
 
--Install the requirements.txt
+-Install the requirements.txt by running this command in work environment : pip install -r requirements.txt
+
 
 -Performed Random-Oversampliing technique of Oversampling techniques to balance the dataset.
 
